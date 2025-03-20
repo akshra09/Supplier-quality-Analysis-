@@ -8,7 +8,6 @@ Welcome to the Supplier Quality Analysis Dashboard, a Tableau-based solution tha
 ## 📈 Dashboards
 
 ### 🏭 Dashboard 1: Supplier Quality Analysis Overview
-![Alt text]("C:\Users\akshu\Downloads\Dashboard 2 (1).png")
 
 #### 🔍 Key Insights:
 
