@@ -5,6 +5,8 @@
 
 Welcome to the Supplier Quality Analysis Dashboard, a Tableau-based solution that helps analyze supplier performance and defect trends. This dashboard provides insights into defected quantities, downtime hours, vendor performance, defect types, and material impacts, helping businesses improve their supply chain efficiency.
 
+The dashboard can be found here:- https://public.tableau.com/views/SupplierQualityAnalysis_17424759800940/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## 📈 Dashboards
 
 ### 🏭 Dashboard 1: Supplier Quality Analysis Overview
